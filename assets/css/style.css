@@ -770,7 +770,7 @@ section {
 
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
-  color: #c3e8fa;
+  color: #2086ba;
   font-size: 26px;
 }
 
@@ -791,7 +791,7 @@ section {
   font-style: italic;
   margin: 0 15px 15px 15px;
   padding: 20px;
-  background: #fff;
+  background: rgb(227, 231, 233);
   position: relative;
   margin-bottom: 35px;
   border-radius: 6px;
@@ -867,7 +867,7 @@ section {
   padding: 0 0 10px 60px;
   margin-bottom: 20px;
   font-size: 14px;
-  color: #173b6c;
+  color: #01050a;
 }
 
 .contact .info .email p {
@@ -993,7 +993,7 @@ section {
   background: #149ddd;
   border: 0;
   padding: 10px 24px;
-  color: #fff;
+  color: rgb(8, 3, 32);
   transition: 0.4s;
   border-radius: 4px;
 }
