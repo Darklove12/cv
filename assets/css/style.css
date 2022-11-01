@@ -78,7 +78,7 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #023475;
+  background: #39485b;
   overflow-y: auto;
 }
 
@@ -417,7 +417,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
@@ -432,8 +432,10 @@ section {
   text-transform: uppercase;
   display: block;
   font-weight: 600;
+  font-size: 2rem;
   font-family: "Poppins", sans-serif;
-  color: #050d18;
+  color: #060a11;
+  margin-top: 1rem;
 }
 
 .skills .progress .skill .val {
@@ -452,6 +454,7 @@ section {
   transition: 0.9s;
   background-color: #149ddd;
 }
+
 
 /*--------------------------------------------------------------
 # Resume
