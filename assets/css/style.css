@@ -436,6 +436,19 @@ section {
   font-family: "Poppins", sans-serif;
   color: #060a11;
   margin-top: 1rem;
+  margin-left: 15rem;
+}
+.img1{
+  width: 4rem;
+}
+.img2{
+  width: 4rem;
+}
+.img3{
+  width: 4rem;
+}
+.img1, .img2, .img3{
+  margin-left: 26rem;
 }
 
 .skills .progress .skill .val {
