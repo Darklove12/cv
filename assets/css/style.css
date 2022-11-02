@@ -438,17 +438,39 @@ section {
   margin-top: 1rem;
   margin-left: 15rem;
 }
+
 .img1{
   width: 4rem;
+  margin-left: 15.1rem;
 }
 .img2{
   width: 4rem;
+  margin-left: 35rem;
+  margin-top: -22.8rem;
 }
 .img3{
-  width: 4rem;
+  width: 5rem;
+  margin-left: 55rem;
+  margin-top: -42.4rem;
 }
-.img1, .img2, .img3{
-  margin-left: 26rem;
+
+.img4{
+  width: 6.5rem;
+  margin-left: 55.5rem;
+  margin-top: -41.4rem;
+}
+
+.img5{
+  width: 9rem;
+  margin-left: 12.3rem;
+  margin-top: -23.4rem;
+}
+
+
+.img6{
+  width: 10rem;
+  margin-left: 32.3rem;
+  margin-top: -34.4rem;
 }
 
 .skills .progress .skill .val {
@@ -458,7 +480,7 @@ section {
 
 .skills .progress-bar-wrap {
   background: #dce8f8;
-  height: 10px;
+  height: 2px;
 }
 
 .skills .progress-bar {
@@ -467,7 +489,6 @@ section {
   transition: 0.9s;
   background-color: #149ddd;
 }
-
 
 /*--------------------------------------------------------------
 # Resume
@@ -770,7 +791,6 @@ section {
   border-radius: 50%;
   margin: 0 auto;
 }
-
 .testimonials .testimonial-item h3 {
   font-size: 18px;
   font-weight: bold;
