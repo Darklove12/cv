@@ -650,7 +650,8 @@ section {
 }
  .pic1 {
       margin: auto;
-      float: none;   
+      float: none;
+      box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;   
   }
 
   /*================
@@ -672,6 +673,7 @@ section {
 .pic2{
   margin-left: 18rem;
   margin-top: -15.9rem;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
 }
 
 /*================
@@ -691,6 +693,7 @@ section {
 .pic3{
   margin-left: 36rem;
   margin-top: -16.3rem;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
 }
 /*================
   Container1 Qinisani
