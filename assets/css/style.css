@@ -647,11 +647,11 @@ section {
   margin-left: 0rem;
   font-size: 1rem;
   font-weight: bold;
+  color: #149ddd;
+  margin-top: 0.3rem;
 }
  .pic1 {
-      margin: auto;
-      float: none;
-      box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;   
+      margin-top: 1rem;
   }
 
   /*================
@@ -662,7 +662,8 @@ section {
     margin-left: 16.7rem;
     font-size: 1rem;
     font-weight: bold;
-    margin-top: -5.9rem;
+    margin-top: -5.5rem;
+    color: #149ddd;
   }
 .container1 > h4{
   margin-left: 17.1rem;
@@ -672,8 +673,7 @@ section {
 
 .pic2{
   margin-left: 18rem;
-  margin-top: -15.9rem;
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+  margin-top: -15.7rem;
 }
 
 /*================
@@ -685,6 +685,7 @@ section {
   margin-top: -5.6rem;
   font-size: 1rem;
   font-weight: bold;
+  color: #149ddd;
 }
 .container1 > h6{
   margin-left: 37.2rem;
@@ -693,7 +694,6 @@ section {
 .pic3{
   margin-left: 36rem;
   margin-top: -16.3rem;
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
 }
 /*================
   Container1 Qinisani
@@ -705,6 +705,7 @@ section {
     margin-top: -6rem;
     font-size: 1rem;
     font-weight: bold;
+    color: #149ddd;
   }
   .container2 > h2{
    margin-left: 53.1rem;
@@ -713,10 +714,11 @@ section {
   
   .pic4{
     margin-left: 53rem;
-    margin-top: -16.2rem;
+    margin-top: -17.3rem;
   }
   .pic1, .pic2, .pic3, .pic4{
     border-radius: 50rem;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
   }
 
 /*--------------------------------------------------------------
