@@ -228,7 +228,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url('IMG_6633.JPG') top center;
+  background: url('/IMG_6633.JPG') top center;
   background-size: calc(42% - 90px);
   background-repeat: no-repeat;
   background-color: #f5f8fd;
