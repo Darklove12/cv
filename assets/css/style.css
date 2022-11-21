@@ -231,6 +231,7 @@ h6 {
   background: url('../img/bathande.JPG') top center;
   background-size: calc(40% - 90px);
   background-repeat: no-repeat;
+  background-color: #859da7;
 
 }
 
@@ -339,13 +340,18 @@ section {
 --------------------------------------------------------------*/
 .about .content h3 {
   font-weight: 700;
-  font-size: 26px;
+  font-size: 28px;
   color: #1676fb;
+  margin-left: -25rem;
 }
 
 .about .content ul {
   list-style: none;
   padding: 0;
+  margin-left: -25rem;
+}
+.about .contact p{
+  margin-left: -25rem;
 }
 
 .about .content ul li {
