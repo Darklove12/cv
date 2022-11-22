@@ -228,12 +228,10 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url('../img/photo.jpg') top center;
-  box-shadow: rgba(9, 30, 66, 0.25) 0px 4px 8px -2px, rgba(9, 30, 66, 0.08) 0px 0px 0px 1px;
+  background: url('/assets/img/Bathand2.JPG') ;
   background-repeat: no-repeat;
-  background-size: 100% 105%;
+  background-size: 100% 148%;
   background-color: #303131;
-
 
 }
 
@@ -260,7 +258,7 @@ h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  padding-top: 25rem;
+  padding-top: 30rem;
   color: rgb(17, 157, 200);
 }
 
