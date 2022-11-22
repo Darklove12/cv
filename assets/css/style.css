@@ -226,13 +226,18 @@ h6 {
 # Hero Section
 --------------------------------------------------------------*/
 #hero {
+  
   width: 100%;
   height: 100vh;
-  background: url('forms/photo.jpg');
+  background: url('/photo.jpg');
   background-repeat: no-repeat;
   background-size: 100% 148%;
   background-color: #303131;
 
+}
+.test
+{
+  color: #000000;
 }
 
 #hero:before {
