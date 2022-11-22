@@ -261,11 +261,11 @@ h6 {
   font-weight: 700;
   line-height: 56px;
   padding-top: 25rem;
-  color: #fff;
+  color: rgb(17, 157, 200);
 }
 
 #hero p {
-  color: #fff;
+  color:rgb(17, 157, 200);
   margin-bottom: 50px;
   margin-left: 74rem;
   font-size: 26px;
