@@ -254,18 +254,17 @@ h6 {
 
 #hero h1 {
   text-align: 100px;
-  margin-left: 74rem;
+  margin-left: 1rem;
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  padding-top: 30rem;
-  color: rgb(17, 157, 200);
+  color: rgb(252, 254, 254);
 }
 
 #hero p {
-  color:rgb(17, 157, 200);
+  color:rgb(251, 252, 252);
   margin-bottom: 50px;
-  margin-left: 74rem;
+  margin-left: 1rem;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
 }
