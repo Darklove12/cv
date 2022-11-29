@@ -460,21 +460,21 @@ section {
 }
 .img3{
   width: 8rem;
-  margin-top: 10rem;
+  margin-top: 13rem;
   margin-left: -28rem;
 }
 
 .img4{
   width: 12rem;
-  margin-top: -2.5rem;
+  margin-top: 2.5rem;
   margin-left: 4rem;
 }
 .img5{
   width: 14rem;
-  margin-top: -6rem;
+  margin-top: -1rem;
   margin-left: 3.5rem;
 }
-.img1 .img2 .img3 .img4 .img5{
+.img1 .img1 .img3 .img4 .img5{
   margin-top: 3rem;
   width: 12rem;
 }
