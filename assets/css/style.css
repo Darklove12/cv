@@ -455,25 +455,28 @@ section {
 }
 
 .img1{
-  width: 8rem;
+  width: 5rem;
+  margin-left: 7rem;
 }
 .img3{
-  width: 11rem;
-  margin-top: 2rem;
+  width: 8rem;
+  margin-top: 10rem;
+  margin-left: -28rem;
 }
 
 .img4{
-  width: 13rem;
-  margin-top: 2rem;
-  margin-left: -2rem;
+  width: 12rem;
+  margin-top: -2.5rem;
+  margin-left: 4rem;
 }
 .img5{
-  width: 15rem;
-  margin-top: -1.4rem;
-  margin-left: -2.6rem;
+  width: 14rem;
+  margin-top: -6rem;
+  margin-left: 3.5rem;
 }
 .img1 .img2 .img3 .img4 .img5{
   margin-top: 3rem;
+  width: 12rem;
 }
 .skills .progress .skill .val {
   float: right;
